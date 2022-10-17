@@ -1,4 +1,4 @@
-# AI-Summit-2022
+# AI-Summit-2022 (Hackathon 1st Runner Up)
 
 The AI Summit London
 
